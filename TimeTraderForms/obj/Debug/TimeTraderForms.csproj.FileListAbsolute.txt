@@ -1,0 +1,20 @@
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\obj\Debug\TimeTraderForms.csprojAssemblyReference.cache
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\obj\Debug\TimeTraderForms.Form1.resources
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\obj\Debug\TimeTraderForms.Properties.Resources.resources
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\obj\Debug\TimeTraderForms.csproj.GenerateResource.cache
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\obj\Debug\TimeTraderForms.csproj.CoreCompileInputs.cache
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\bin\Debug\TimeTraderForms.exe.config
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\bin\Debug\TimeTraderForms.exe
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\bin\Debug\TimeTraderForms.pdb
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\obj\Debug\TimeTraderForms.exe
+C:\Users\util\source\repos\TimeTraderForms\TimeTraderForms\obj\Debug\TimeTraderForms.pdb
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\bin\Debug\TimeTraderForms.exe.config
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\bin\Debug\TimeTraderForms.exe
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\bin\Debug\TimeTraderForms.pdb
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\obj\Debug\TimeTraderForms.csprojAssemblyReference.cache
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\obj\Debug\TimeTraderForms.Form1.resources
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\obj\Debug\TimeTraderForms.Properties.Resources.resources
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\obj\Debug\TimeTraderForms.csproj.GenerateResource.cache
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\obj\Debug\TimeTraderForms.csproj.CoreCompileInputs.cache
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\obj\Debug\TimeTraderForms.exe
+C:\Users\util\source\repos\TimeTraderForms - Copie\TimeTraderForms\obj\Debug\TimeTraderForms.pdb
